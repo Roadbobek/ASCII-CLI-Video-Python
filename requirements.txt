@@ -1,0 +1,9 @@
+opencv-python>=4.8.0
+ascii-magic>=2.3.0
+moviepy>=1.0.3
+playsound3>=0.1.0
+numpy>=1.24.0
+
+# If issues arrise try downloading these
+# imageio>=2.25.0
+# imageio-ffmpeg>=0.4.8
